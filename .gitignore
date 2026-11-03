@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Scratch and generated briefs (keep curated ones under examples/)
+Desk_Brief_*.pdf
+*.tmp
+*.log
